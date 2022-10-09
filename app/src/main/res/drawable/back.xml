@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#FFFFFF" />
+            <stroke android:width="1dp" android:color="@color/white" />
+            <padding android:left="1dp" android:top="1dp" android:right="1dp"
+                android:bottom="1dp" />
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/ic_baseline_arrow_back_ios_24"
+        android:start="7.5dp"/>
+
+</layer-list>
